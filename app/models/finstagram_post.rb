@@ -1,3 +1,3 @@
-class Finstagram < ActiveRecord::Base
+class FinstagramPost < ActiveRecord::Base
 
-End
+end
